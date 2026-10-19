@@ -1,0 +1,6 @@
+{
+  "name": "Athenaeum Library Management System",
+  "description": "A modern, professional Library Management System frontend connected to Express REST API with book cataloging, inventory tracking, and circulation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
